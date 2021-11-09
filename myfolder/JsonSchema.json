@@ -1,0 +1,1 @@
+{"description": "InboundMessage event definition", "required": ["messageSid", "timestamp", "accountSid", "eventName", "from", "to"], "additionalProperties": "false"}
