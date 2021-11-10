@@ -1,0 +1,12 @@
+avro_schema_name: InboundMessageV1
+avro_schema_namespace: Messaging
+environments:
+  dev-us1:
+  - avro_schema_version: 1
+    json_schema_version: 1
+  stage-us1:
+  - avro_schema_version: 1
+    json_schema_version: 1
+  us1:
+  - avro_schema_version: 1
+    json_schema_version: 1
